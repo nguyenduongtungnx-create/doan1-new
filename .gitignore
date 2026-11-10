@@ -3,3 +3,10 @@
 __pycache__/
 *.pt
 outputs/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
