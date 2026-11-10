@@ -1,0 +1,5 @@
+ultralytics>=8.3,<9
+opencv-python>=4.10,<5
+Pillow>=11,<13
+matplotlib>=3.9,<4
+lap>=0.5.12,<1
